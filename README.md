@@ -4,4 +4,6 @@ mongodb+srv://admin:admin123@cluster0.hv6mrf6.mongodb.net/?appName=Cluster0
 
 http://localhost:3001/api
 
+npm install react react-dom react-router-dom
+
 npm install -D vite @vitejs/plugin-react
